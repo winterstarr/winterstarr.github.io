@@ -1,0 +1,43 @@
+.champion-header {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    position: relative;
+    overflow: hidden;
+    background: #292929;
+}
+
+.champion-header-image {
+    position: relative;
+    float: left;
+    padding: 0.1875rem;
+    margin: 0 1.25rem -1.25rem 1rem;
+    border-radius: 0.25rem;
+    background: #444444
+
+}
+
+.champion-header-info {
+    padding-left: 5rem;
+    margin-left: 5rem;
+}
+
+.stats-box {
+    padding-top: 1rem;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.stats-header {
+    font-weight: 700;
+    font-size: large;
+    margin-bottom: .5rem;
+}
+
+.stats-number {
+    color: #9badbf;
+}
+
+.stats-error {
+    font-style: italic;
+    color: gray;
+}
